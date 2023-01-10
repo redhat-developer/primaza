@@ -1,3 +1,5 @@
+Note: This will be the Red Hat downstream fork for https://github.com/primaza/primaza. Only to be used for Red Hat release of primaza project as a product
+
 # Primaza
 ## Multi Cluster Service Consumption Framework
 
